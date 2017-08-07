@@ -1,0 +1,521 @@
+[
+  {
+    "src": "..../../static/img/nav2.jpg",
+    "title": "生日蛋糕",
+    "class":"/shopShow",
+    "id":"2",
+    "details":[
+      {
+        "id":"20",
+        "src": "../../static/img/home-hot1.jpg",
+        "title":"特惠榴莲千层(榴莲300克)",
+        "nprice":"￥138元",
+        "oprice":"￥170元"
+      },
+      {
+        "id":"21",
+        "src": "../../static/img/home-hot2.jpg",
+        "title":"(特价)水果蛋糕爱的承诺",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"22",
+        "src": "../../static/img/home-hot3.jpg",
+        "title":"水果蛋糕风华正茂",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"23",
+        "src": "../../static/img/home-hot4.jpg" ,
+        "title":"巧克力蛋糕魔力诱惑",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"24",
+        "src": "../../static/img/D1.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"26",
+        "src": "../../static/img/D2.jpg" ,
+        "title":"猫山王",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"27",
+        "src": "../../static/img/D3.jpg" ,
+        "title":"香菜籽",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"28",
+        "src": "../../static/img/D4.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"29",
+        "src":"../../static/img/home-jp1.jpg",
+        "title":"(热卖)水果蛋糕七彩果园",
+        "nprice":"￥188元",
+        "oprice":"￥244元"
+      },
+      {
+        "id":"30",
+        "src": "../../static/img/home-jp2.jpg",
+        "title":"儿童水果蛋糕/卡通熊",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"31",
+        "src": "../../static/img/home-jp3.jpg",
+        "title":"轻取蛋糕/比基尼",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"32",
+        "src": "../../static/img/home-jp4.jpg",
+        "title":"玫瑰蛋糕/红妆素裹",
+        "nprice":"￥198元",
+        "oprice":"￥267元"
+      }
+    ]
+  },
+   {
+    "src": "..../../static/img/nav3.jpg",
+    "title": "彩虹蛋糕",
+     "class":"/shopShow",
+     "id":"3",
+     "details":[
+       {
+         "id":"20",
+         "src": "../../static/img/home-hot1.jpg",
+         "title":"特惠榴莲千层(榴莲300克)",
+         "nprice":"￥138元",
+         "oprice":"￥170元"
+       },
+       {
+         "id":"21",
+         "src": "../../static/img/home-hot2.jpg",
+         "title":"(特价)水果蛋糕爱的承诺",
+         "nprice":"￥178元",
+         "oprice":"￥231元"
+       },
+       {
+         "id":"22",
+         "src": "../../static/img/home-hot3.jpg",
+         "title":"水果蛋糕风华正茂",
+         "nprice":"￥178元",
+         "oprice":"￥231元"
+       },
+       {
+         "id":"23",
+         "src": "../../static/img/home-hot4.jpg" ,
+         "title":"巧克力蛋糕魔力诱惑",
+         "nprice":"￥168元",
+         "oprice":"￥218元"
+       },
+       {
+         "id":"24",
+         "src": "../../static/img/D1.jpg" ,
+         "title":"抹茶红豆",
+         "nprice":"￥168元",
+         "oprice":"￥218元"
+       },
+       {
+         "id":"26",
+         "src": "../../static/img/D2.jpg" ,
+         "title":"猫山王",
+         "nprice":"￥168元",
+         "oprice":"￥218元"
+       },
+       {
+         "id":"27",
+         "src": "../../static/img/D3.jpg" ,
+         "title":"香菜籽",
+         "nprice":"￥168元",
+         "oprice":"￥218元"
+       },
+       {
+         "id":"28",
+         "src": "../../static/img/D4.jpg" ,
+         "title":"抹茶红豆",
+         "nprice":"￥168元",
+         "oprice":"￥218元"
+       },
+       {
+         "id":"29",
+         "src":"../../static/img/home-jp1.jpg",
+         "title":"(热卖)水果蛋糕七彩果园",
+         "nprice":"￥188元",
+         "oprice":"￥244元"
+       },
+       {
+         "id":"30",
+         "src": "../../static/img/home-jp2.jpg",
+         "title":"儿童水果蛋糕/卡通熊",
+         "nprice":"￥178元",
+         "oprice":"￥231元"
+       },
+       {
+         "id":"31",
+         "src": "../../static/img/home-jp3.jpg",
+         "title":"轻取蛋糕/比基尼",
+         "nprice":"￥178元",
+         "oprice":"￥231元"
+       },
+       {
+         "id":"32",
+         "src": "../../static/img/home-jp4.jpg",
+         "title":"玫瑰蛋糕/红妆素裹",
+         "nprice":"￥198元",
+         "oprice":"￥267元"
+       }
+     ]
+    },
+  {
+    "src": "..../../static/img/nav4.jpg",
+    "title": "情侣蛋糕",
+    "class":"/shopShow",
+    "id":"4",
+    "details":[
+      {
+        "id":"20",
+        "src": "../../static/img/home-hot1.jpg",
+        "title":"特惠榴莲千层(榴莲300克)",
+        "nprice":"￥138元",
+        "oprice":"￥170元"
+      },
+      {
+        "id":"21",
+        "src": "../../static/img/home-hot2.jpg",
+        "title":"(特价)水果蛋糕爱的承诺",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"22",
+        "src": "../../static/img/home-hot3.jpg",
+        "title":"水果蛋糕风华正茂",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"23",
+        "src": "../../static/img/home-hot4.jpg" ,
+        "title":"巧克力蛋糕魔力诱惑",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"24",
+        "src": "../../static/img/D1.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"26",
+        "src": "../../static/img/D2.jpg" ,
+        "title":"猫山王",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"27",
+        "src": "../../static/img/D3.jpg" ,
+        "title":"香菜籽",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"28",
+        "src": "../../static/img/D4.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"29",
+        "src":"../../static/img/home-jp1.jpg",
+        "title":"(热卖)水果蛋糕七彩果园",
+        "nprice":"￥188元",
+        "oprice":"￥244元"
+      },
+      {
+        "id":"30",
+        "src": "../../static/img/home-jp2.jpg",
+        "title":"儿童水果蛋糕/卡通熊",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"31",
+        "src": "../../static/img/home-jp3.jpg",
+        "title":"轻取蛋糕/比基尼",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"32",
+        "src": "../../static/img/home-jp4.jpg",
+        "title":"玫瑰蛋糕/红妆素裹",
+        "nprice":"￥198元",
+        "oprice":"￥267元"
+      }
+    ]
+  },
+  {
+    "src": "..../../static/img/nav5.jpg",
+    "title": "儿童蛋糕",
+    "class":"/shopShow",
+    "id":"5",
+    "details":[
+      {
+        "id":"20",
+        "src": "../../static/img/home-hot1.jpg",
+        "title":"特惠榴莲千层(榴莲300克)",
+        "nprice":"￥138元",
+        "oprice":"￥170元"
+      },
+      {
+        "id":"21",
+        "src": "../../static/img/home-hot2.jpg",
+        "title":"(特价)水果蛋糕爱的承诺",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"22",
+        "src": "../../static/img/home-hot3.jpg",
+        "title":"水果蛋糕风华正茂",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"23",
+        "src": "../../static/img/home-hot4.jpg" ,
+        "title":"巧克力蛋糕魔力诱惑",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"24",
+        "src": "../../static/img/D1.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"26",
+        "src": "../../static/img/D2.jpg" ,
+        "title":"猫山王",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"27",
+        "src": "../../static/img/D3.jpg" ,
+        "title":"香菜籽",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"28",
+        "src": "../../static/img/D4.jpg" ,
+        "title":"抹茶红豆",
+        "nprice":"￥168元",
+        "oprice":"￥218元"
+      },
+      {
+        "id":"29",
+        "src":"../../static/img/home-jp1.jpg",
+        "title":"(热卖)水果蛋糕七彩果园",
+        "nprice":"￥188元",
+        "oprice":"￥244元"
+      },
+      {
+        "id":"30",
+        "src": "../../static/img/home-jp2.jpg",
+        "title":"儿童水果蛋糕/卡通熊",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"31",
+        "src": "../../static/img/home-jp3.jpg",
+        "title":"轻取蛋糕/比基尼",
+        "nprice":"￥178元",
+        "oprice":"￥231元"
+      },
+      {
+        "id":"32",
+        "src": "../../static/img/home-jp4.jpg",
+        "title":"玫瑰蛋糕/红妆素裹",
+        "nprice":"￥198元",
+        "oprice":"￥267元"
+      }
+    ]
+  },
+  {
+    "src": "..../../static/img/nav6.jpg",
+    "title": "套餐组合",
+    "class":"/shopShow",
+    "id":"6",
+    "details":[
+      {
+        "id":"45",
+        "src": "../../static/img/home-zu1.jpg",
+        "title":"巴黎恋人组合",
+        "nprice":"￥395元",
+        "oprice":"￥465元"
+      },
+      {
+        "id":"46",
+        "src": "../../static//img/home-zu2.jpg",
+        "title":"浪漫组合/一见钟情",
+        "nprice":"￥318元",
+        "oprice":"￥374元"
+      },
+      {
+        "id":"47",
+        "src": "../../static/img/home-zu3.jpg",
+        "title":"七彩爱恋组合",
+        "nprice":"￥373元",
+        "oprice":"￥439元"
+      },
+      {
+        "id":"48",
+        "src": "../../static/img/home-zu4.jpg",
+        "title":"蛋糕鲜花组合/温温深情",
+        "nprice":"￥353元",
+        "oprice":"￥416元"
+      },
+      {
+        "id":"49",
+        "src": "../../static/img/zu1.jpg",
+        "title":"蛋糕鲜花组合/温温深情",
+        "nprice":"￥353元",
+        "oprice":"￥416元"
+      },
+      {
+        "id":"50",
+        "src": "../../static/img/zu2.jpg",
+        "title":"蛋糕鲜花组合/温温深情",
+        "nprice":"￥353元",
+        "oprice":"￥416元"
+      },{
+        "id":"51",
+        "src": "../../static/img/zu3.jpg",
+        "title":"蛋糕鲜花组合/温温深情",
+        "nprice":"￥353元",
+        "oprice":"￥416元"
+      },{
+        "id":"48",
+        "src": "../../static/img/zu4.jpg",
+        "title":"蛋糕鲜花组合/温温深情",
+        "nprice":"￥353元",
+        "oprice":"￥416元"
+      }
+    ]
+  },
+  {
+    "src": "..../../static/img/nav7.jpg",
+    "title": "鲜花预定",
+    "class":"/shopShow",
+    "id":"7",
+    "details":[
+      {
+        "id":"33",
+        "src": "../../static/img/home-xp1.jpg",
+        "title":"永远健康",
+        "nprice":"￥218元",
+        "oprice":"￥273元"
+      },
+      {
+        "id":"34",
+        "src": "../../static/img/home-xp2.jpg",
+        "title":"(特价)相伴",
+        "nprice":"￥208元",
+        "oprice":"￥228元"
+      },{
+        "id":"35",
+        "src": "../../static/img/home-xp3.jpg",
+        "title":"(特价)念亲恩",
+        "nprice":"￥170元 ",
+        "oprice":"￥195元"
+      },
+      {
+        "id":"36",
+        "src":"../../static/img/home-xp4.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"37",
+        "src":"../../static/img/flower1.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"38",
+        "src":"../../static/img/flower2.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"39",
+        "src":"../../static/img/flower10.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"40",
+        "src":"../../static/img/flower4.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"41",
+        "src":"../../static/img/flower5.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },{
+        "id":"42",
+        "src":"../../static/img/flower6.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },{
+        "id":"43",
+        "src":"../../static/img/flower7.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      },
+      {
+        "id":"44",
+        "src":"../../static/img/flower8.jpg",
+        "title":"幸福绽放",
+        "nprice":"￥273元",
+        "oprice":"￥322元"
+      }
+    ]
+  }
+]

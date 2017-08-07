@@ -1,0 +1,28 @@
+{
+  "lunbo":[
+    {
+      "route":"/Detail",
+      "src": "require('../assets/l1.jpg')"
+    },
+    {
+      "route":"/Detail",
+      "src": "require('../assets/l2.jpg')"
+    }
+  ],
+"first":[
+  {
+    "src":"../../static/img/nav1.jpg",
+    "title" :"全部分类",
+    "class":"/fication",
+    "id":"1"
+  }
+],
+  "last":[
+    {
+      "src":"../../static/img/nav8.jpg",
+      "title" :"个人中心",
+      "class":"/user",
+      "id":"8"
+    }
+  ]
+}
